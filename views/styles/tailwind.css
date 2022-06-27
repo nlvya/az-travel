@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-btn {
+    background: transparent !important;
+}
+
+.container {
+    width: 100%;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
